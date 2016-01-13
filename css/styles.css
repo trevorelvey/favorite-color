@@ -9,3 +9,30 @@
 .red-background {
   background-color: red;
 }
+
+.reset-background {
+  background-color: white;
+}
+
+.purple-background {
+  background-color: purple;
+}
+
+.btn-purple {
+  background-color: purple;
+  color: white
+}
+
+.blue-background {
+  background-color: blue;
+}
+
+.btn-blue {
+  background-color: blue;
+  color: white
+}
+
+.btn-reset {
+  background-color: white;
+  border: 1px solid black;
+}
